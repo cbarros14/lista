@@ -1,0 +1,11 @@
+.App {
+  background-color: #f1ebef;
+  height: 100%;
+}
+
+.app-titulo {
+  margin: auto;
+  text-align: center;
+  padding: 20px 0;
+  color: rgb(123, 18, 222);
+}
